@@ -147,9 +147,9 @@ A recommended GitHub repository structure is:
 ```text
 Servo-Motor-Potentiometer-Arduino/
 │
-├── potentiometer.ino
-├── circuit-diagram.jpg
-└── README.md
+├── README.md
+├── circuitdiagram_potentiometer.jpg
+└── README.mdpotentiometer.ino
 ```
 
 You can also add photos or videos of the completed project later.
